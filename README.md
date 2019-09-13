@@ -11,25 +11,25 @@ Implemented several OpenGL framebuffer processing and post effect
 ![](/Demo/pixelation.png)
 
 ### fish eye
-![](/Demo/fish eye.png)
+![](/Demo/fish-eye.png)
 
 ### half tone
-![](/Demo/half tone.png)
+![](/Demo/half-tone.png)
 
 ### gray scale
-![](/Demo/gray scale.png)
+![](/Demo/gray-scale.png)
 
 ### water
 ![](/Demo/water.png)
 
 ### red blue stereo
-![](/Demo/red blue stereo.png)
+![](/Demo/red-blue-stereo.png)
 
 ### sharpen
 ![](/Demo/sharpen.png)
 
 ### sin wave
-![](/Demo/sin wave.png)
+![](/Demo/sin-wave.png)
 
 ### snow
 ![](/Demo/snow.png)
@@ -41,4 +41,4 @@ Implemented several OpenGL framebuffer processing and post effect
 ![](/Demo/bloom.png)
 
 ### night view
-![](/Demo/night view.png)
+![](/Demo/night-view.png)
